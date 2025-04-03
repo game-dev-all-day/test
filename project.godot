@@ -10,13 +10,8 @@ config_version=5
 
 [application]
 
-<<<<<<< HEAD
 config/name="test3"
 config/features=PackedStringArray("4.3", "Forward Plus")
-=======
-config/name="Mountain Climber"
-config/features=PackedStringArray("4.4", "Forward Plus")
->>>>>>> ce6af1f3385d57d7ed9b3d4925cfbb67fe6a3683
 config/icon="res://icon.svg"
 
 [editor]
